@@ -23,6 +23,8 @@ A **game developer** deals with the code behind the game that the user interacts
 
 Games may also require a **publisher** to handle the marketing and support side of development. Typically, this is done by a third party outside of development but some developers may choose to self-publish.
 
+Finally, games may also require various other components such as sound design (music and sound effects), level design, play-testing, and marketing.
+
 
 ## Recommended Resources
 
@@ -33,6 +35,8 @@ There are many, many different game engines, but you can read the latest compari
 *[Brackeys on YouTube](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) has awesome beginner to expert tutorials on how to do anything on Unity
 
 *[Hackerrank](https://www.hackerrank.com/) is a great place to learn the basics of C# for Unity, C++ for Unreal Engine, or any other language
+
+*[Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) is a very good YouTube Channel for in-depth programming tutorials on Unity and C#
 
 **Assets**
 
@@ -48,9 +52,17 @@ There are many, many different game engines, but you can read the latest compari
 
 *[Gimp](https://www.gimp.org/) is an awesome and free alternative to Photoshop
 
+*[Krita](https://krita.org/en/) is another amazing free alternative to Photoshop; includes 100s of premade brushes
+
+*[Aseprite](https://www.aseprite.org) **COSTS MONEY** works really well with Unity; specifically designed for easily creating and animating pixel art
+
 **Networking**
 
 *[Photon Engine](https://www.photonengine.com/) is an awesome and free place to host your multiplayer servers
+
+**Music**
+
+*[LMMS](https://lmms.io/lsp/) is a free music development application; various extensions exist that add 1000s of instruments and sound effects
 
 ## Opinions
 
@@ -63,4 +75,8 @@ I think the very best way to learn game development is to choose an engine, down
 My greatest advice for game development is to make games that you would actually play. This will certainly keep you motivated and spiritually invested in your game which users will be able to see in the final product. Make sure you also focus on the parts of game development where you can be that invested. For example, if you like the art component more than the coding, then maybe make a game that relies more on the user’s visual experience like Hollow Knight or The Witness and find another developer for the coding part. If you like coding more than the artistic part you might consider games like Minecraft or Stardew Valley and buy the graphic components.
 
 Lastly, don’t stress over developing your game. It may be daunting to play games worth millions or billions of dollars and try to mirror that success. Making games is an expression of you like singing, painting, or dancing. Create something you believe in and you enjoy creating.
+
+### Alejandro Ciuba - 6/7/2021
+
+I also agree with Alex with how to get started. Follow a game-making tutorial on YouTube for the engine you want to develop and then afterwards, use what you learned making that small game by making more. Eventually, your best resources will end up being forums and the engine's documentation. But don't feel bad if you end up using tutorials even after developing in the engine for a long time. Also make sure you try and do research before implementing a game mechanic because more than likely there's either a library that helps you implement it easier or someone has made a tutorial to get you started on the best ways to implement that mechanic. 
 
